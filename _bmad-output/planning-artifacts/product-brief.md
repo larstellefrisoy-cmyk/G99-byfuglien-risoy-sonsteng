@@ -58,15 +58,15 @@ Løsningen lykkes dersom troppssjefen kan gå fra et opplastet dokument til en o
 
 ### OUT – First version
 
-- Direkte integrasjon med eksterne applikasjoner, inkludert automatisk innhenting og synkronisering av informasjon.
-- Flerbrukerfunksjonalitet, inkludert deling av årshjul, rolle- og tilgangsstyring, og sanntidssamarbeid.
-- Mulighet for flere konsentriske ringer i årshjulet.
-- Muligheten til å zoome inn på en enkelt uke og se aktivitetene fordelt på ukedager (mandag–søndag).
-- OCR og analyse av skannede dokumenter eller bilder.
-- Omfattende tilpasning av format, layout, farger og planleggingsstrukturer.
-- KI-basert prioritering, beslutningstaking og automatisk gjennomføring av endringer uten brukerens godkjenning.
-- Prediksjon, konfliktanalyse, optimalisering og beslutningsstøtte.
-- Separat oppgavestyring (Task Manager), inkludert oppgavestatus, fremdriftsoppfølging og fullføring av oppgaver.
+1. Direkte integrasjon med eksterne applikasjoner, inkludert automatisk innhenting og synkronisering av informasjon.
+2. Flerbrukerfunksjonalitet, inkludert deling av årshjul, rolle- og tilgangsstyring, og sanntidssamarbeid.
+3. Mulighet for flere konsentriske ringer i årshjulet.
+4. Muligheten til å zoome inn på en enkelt uke og se aktivitetene fordelt på ukedager (mandag–søndag).
+5. OCR og analyse av skannede dokumenter eller bilder.
+6. Omfattende tilpasning av format, layout, farger og planleggingsstrukturer.
+7. KI-basert prioritering, beslutningstaking og automatisk gjennomføring av endringer uten brukerens godkjenning.
+8. Prediksjon, konfliktanalyse, optimalisering og beslutningsstøtte.
+9. Separat oppgavestyring (Task Manager), inkludert oppgavestatus, fremdriftsoppfølging og fullføring av oppgaver.
 
 ## 7. Security & Testing
 
